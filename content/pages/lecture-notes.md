@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6b403b47-7cd7-384f-ce18-fc29b76e1851
 ---
@@ -48,7 +51,7 @@ Classical (collisional) Transport in Magnetized Plasma
 *   Expansion About Local Thermal Equilibrium (Electron Transport)
 *   Linear Force/Flux Relations
 *   Transport Coefficients: Dissipative and Non-dissipative Terms
-*   Physical Picture of Non-dissipative Terms: (a) "Diamagnetic" Flow Terminology and Physics from Pressure Balance and Show that B**in** < B**out**, (b) "Magnetization" Flow Terminology from FLR, J=Curl M
+*   Physical Picture of Non-dissipative Terms: (a) "Diamagnetic" Flow Terminology and Physics from Pressure Balance and Show that B**in** \< B**out**, (b) "Magnetization" Flow Terminology from FLR, J=Curl M
 *   Physical Picture of Dissipative Flows: (a) Guiding Center Scattering, (b) Random Walk
 
 Classical Transport in Guiding Center Picture
