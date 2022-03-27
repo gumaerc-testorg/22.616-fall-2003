@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6b403b47-7cd7-384f-ce18-fc29b76e1851
 resourcetype: Document
 title: collisionstrans2.pdf
 uid: 3277350d-3d1b-252b-ad75-4cdf65dcf6da
