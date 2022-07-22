@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-616-plasma-transport-theory-fall-2003/4abad24c23e6eca64ff6c9b3a1a962c5_pset4.pdf
+file: /courses/22-616-plasma-transport-theory-fall-2003/4abad24c23e6eca64ff6c9b3a1a962c5_pset4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

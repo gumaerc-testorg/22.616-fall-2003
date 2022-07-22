@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-616-plasma-transport-theory-fall-2003/3277350d3d1b252bad754cdf65dcf6da_collisionstrans2.pdf
+file: /courses/22-616-plasma-transport-theory-fall-2003/3277350d3d1b252bad754cdf65dcf6da_collisionstrans2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

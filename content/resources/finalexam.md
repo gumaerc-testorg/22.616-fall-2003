@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-616-plasma-transport-theory-fall-2003/5965d9e77f1a3eb229aed38b0765352e_finalexam.pdf
+file: /courses/22-616-plasma-transport-theory-fall-2003/5965d9e77f1a3eb229aed38b0765352e_finalexam.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
