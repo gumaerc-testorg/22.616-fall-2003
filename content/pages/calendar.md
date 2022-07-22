@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 9d1a0d24-4fe9-39ba-578f-bc393c2b4771
 ---
@@ -153,7 +155,7 @@ Linear Force/Flux Relations
   
 Transport Coefficients: Dissipative and Non-dissipative Terms  
   
-Physical Picture of Non-dissipative Terms: (a) "Diamagnetic" Flow Terminology and Physics from Pressure Balance and Show that B**in**<B**out**, (b) "Magnetization" Flow Terminology from FLR, J=Curl M  
+Physical Picture of Non-dissipative Terms: (a) "Diamagnetic" Flow Terminology and Physics from Pressure Balance and Show that B**in**\<B**out**, (b) "Magnetization" Flow Terminology from FLR, J=Curl M  
   
 Physical Picture of Dissipative Flows: (a) Guiding Center Scattering, (b) Random Walk
 {{< tdclose >}}
