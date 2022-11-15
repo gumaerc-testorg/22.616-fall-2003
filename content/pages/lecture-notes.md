@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an outline of topics covered in class. Lecture
+  notes are provided where available.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -28,8 +30,8 @@ Diffusion Equation Solutions and Scaling
 Coulomb Collision Operator Derivation
 
 *   Written Notes for these Lectures (2 sets):  
-    (1) Collisions and Transport Theory I ([PDF]({{< baseurl >}}/resources/collisionstrans1))  
-    (2) Collisions and Transport Theory II: Electrical Conductivity - Spitzer Problem ([PDF]({{< baseurl >}}/resources/collisionstrans2))
+    (1) Collisions and Transport Theory I ({{% resource_link 923ea57a-2611-e1f0-5af8-13f1919354eb "PDF" %}})  
+    (2) Collisions and Transport Theory II: Electrical Conductivity - Spitzer Problem ({{% resource_link 3277350d-3d1b-252b-ad75-4cdf65dcf6da "PDF" %}})
 *   Fokker-Planck Equation Derivation
 
 Coulomb Collision Operator Derivation II
