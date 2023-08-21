@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course textbook and the specific
+  assigned chapters for each section of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

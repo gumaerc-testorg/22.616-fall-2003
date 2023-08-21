@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the six problem sets assigned for the course along
+  with solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -28,10 +30,10 @@ SOLUTIONS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset1))
+Problem Set 1 ({{% resource_link 21221687-52d6-10fd-80ed-93eaf6eb826e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pset1sol))
+({{% resource_link 3d3feee7-80dd-55cf-9707-5f7de61e9758 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,10 +42,10 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset1))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2))
+Problem Set 2 ({{% resource_link ca819540-be10-a2af-fa65-ce39461753ef "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pset2sol))
+({{% resource_link 69e32d87-0e58-92de-e0a3-18d7a127d280 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,10 +54,10 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2))
 6-7
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset3))
+Problem Set 3 ({{% resource_link d67cc645-79a3-564b-ad7e-c0551284f076 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pset3sol))
+({{% resource_link 136026a3-b395-1756-d394-0ebe45627a51 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,10 +66,10 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset3))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset4))
+Problem Set 4 ({{% resource_link 4abad24c-23e6-eca6-4ff6-c9b3a1a962c5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pset4sol))
+({{% resource_link 0c9a2f0b-ce6f-e655-4508-8cc788af8727 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,10 +78,10 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset4))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset5))
+Problem Set 5 ({{% resource_link 5f228bcc-ec64-c1d2-e51a-b227b0837e2d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pset5sol))
+({{% resource_link eeed29ad-5530-5740-741e-0ce18ed810a5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,10 +90,10 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset5))
 18-19
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/pset6))
+Problem Set 6 ({{% resource_link d8186958-420b-d284-3798-54b590abcccc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pset6sol))
+({{% resource_link 0fd571e6-6501-92cc-4b95-dd3472a5e073 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
