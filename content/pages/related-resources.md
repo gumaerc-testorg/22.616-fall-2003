@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides external links to Plasma and Fusion related resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
