@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/22-616-plasma-transport-theory-fall-2003/0c9a2f0bce6fe65545088cc788af8727_pset4sol.pdf
+file_size: 139247
 file_type: application/pdf
 learning_resource_types:
 - Assignments
