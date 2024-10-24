@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-616-plasma-transport-theory-fall-2003/3277350d3d1b252bad754cdf65dcf6da_collisionstrans2.pdf
+file: /ol-ocw-studio-app/courses/22-616-plasma-transport-theory-fall-2003/3277350d3d1b252bad754cdf65dcf6da_collisionstrans2.pdf
 file_size: 153063
 file_type: application/pdf
 learning_resource_types:
