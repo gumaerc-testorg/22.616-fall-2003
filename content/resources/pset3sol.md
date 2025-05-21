@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/22-616-plasma-transport-theory-fall-2003/136026a3b3951756d3940ebe45627a51_pset3sol.pdf
+file: /courses/22-616-plasma-transport-theory-fall-2003/136026a3b3951756d3940ebe45627a51_pset3sol.pdf
 file_size: 124880
 file_type: application/pdf
 learning_resource_types:
