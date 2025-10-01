@@ -9,18 +9,18 @@ uid: 85de88f3-17e8-0d80-71ec-c9e339460d29
 
 The following is a list of Plasma and Fusion related resources. Some of the Web sites have excellent links. You are invited to visit them.
 
-[MIT Plasma Science and Fusion Center](http://www.psfc.mit.edu)
+{{% resource_link "3d30e90a-69b2-4b51-b6d5-fa6fdaac0425" "MIT Plasma Science and Fusion Center" %}}
 
-[MIT Plasma Science and Fusion Center - Levitated Dipole Experiment](https://www-internal.psfc.mit.edu/ldx/)
+{{% resource_link "3257cbeb-2125-43d2-8160-8b4d23a0011a" "MIT Plasma Science and Fusion Center - Levitated Dipole Experiment" %}}
 
-[The US Department of Energy - Fusion Energy Sciences Program](http://science.energy.gov/fes/)
+{{% resource_link "5f87b74b-c713-4c2c-b533-3d08236f6239" "The US Department of Energy - Fusion Energy Sciences Program" %}}
 
-[The World Wide Web Virtual Library - Plasma Science and Technology - Resources](http://www.plasmas.org/resources.htm)
+{{% resource_link "66b945e2-ded2-4f51-9cbc-ed1f72b502ce" "The World Wide Web Virtual Library - Plasma Science and Technology - Resources" %}}
 
-[The Coalition for Plasma Science](http://www.plasmacoalition.org)
+{{% resource_link "ea02a9cf-b0c1-4482-94e5-20985a5bfe3a" "The Coalition for Plasma Science" %}}
 
-[Princeton Plasma Physics Laboratory](http://www.pppl.gov)
+{{% resource_link "36f256e2-8ac5-4286-997e-c27768a65b84" "Princeton Plasma Physics Laboratory" %}}
 
-[General Atomics](http://web.gat.com)
+{{% resource_link "50f4101d-284b-4259-8c8d-ce71e7e3fc63" "General Atomics" %}}
 
-[Research Programs in Plasmas and Fusion Technology - University of Wisconsin](http://sprott.physics.wisc.edu/fusion.htm)
+{{% resource_link "5694093d-25f9-4495-a705-29a837ec1ac2" "Research Programs in Plasmas and Fusion Technology - University of Wisconsin" %}}
